@@ -56,12 +56,12 @@ def main():
     while True:
         try:
             n = int(input("Enter the range for the proof: "))
-            option = {
+            options = {
                 1: "prime",
                 2: "composite"
             }
             
-            num_group = option.get(int(input("Enter 1 for prime or 2 for composite: ")), "prime")
+            num_group = options.get(int(input("Enter 1 for prime or 2 for composite: ")), "prime")
             
         except Exception as e:
             print("Invalid input.")
