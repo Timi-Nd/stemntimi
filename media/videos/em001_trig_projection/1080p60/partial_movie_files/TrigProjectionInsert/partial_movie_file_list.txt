@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ebuka/PycharmProjects/stemntimi/media/videos/em001_trig_projection/1080p60/partial_movie_files/TrigProjectionInsert/2257293077_4180056543_223132457.mp4'
+file 'file:C:/Users/ebuka/PycharmProjects/stemntimi/media/videos/em001_trig_projection/1080p60/partial_movie_files/TrigProjectionInsert/2135761390_1274372543_4031245512.mp4'
+file 'file:C:/Users/ebuka/PycharmProjects/stemntimi/media/videos/em001_trig_projection/1080p60/partial_movie_files/TrigProjectionInsert/2135761390_1432596116_1979359989.mp4'
